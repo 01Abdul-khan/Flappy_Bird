@@ -1,1 +1,3 @@
-# Flappy_Bird this is flappy bir
+# Flappy Bird 
+About The Project💡
+
